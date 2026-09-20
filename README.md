@@ -1,5 +1,10 @@
 # 🔐 Password Security Checker
 
+## Download for Windows
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%20EXE-blue?style=for-the-badge&logo=windows)](https://github.com/Joxa1705/PasswordSecurityChecker/releases/latest)
+
+Download the latest Windows version of Password Security Checker and run the `.exe` file.
 A desktop password security analysis tool built with Python and Tkinter.
 
 Password Security Checker is a defensive cybersecurity application designed to analyze password security using multiple security signals. The application provides password analysis, weak-pattern detection, breach checking, security policies, educational guidance, analytics, audit logging, automated testing, error handling, and Windows executable packaging.
